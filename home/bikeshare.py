@@ -4,6 +4,10 @@ import numpy as np
 import datetime as dt
 import click
 
+
+print("HELLO USER THIS IS THE BIKESHARE PROJECT ")
+print("How can i help you user")
+
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
